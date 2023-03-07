@@ -1,0 +1,14 @@
+#To install
+pip install beautifulsoup4
+pip install lxml
+pip install requests
+python3 -m pip install
+
+
+
+https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=python&txtLocation=
+
+
+https://www.timesjobs.com/candidate/job-search.html?from=submit&actualTxtKeywords=python&searchBy=0&rdoOperator=OR&searchType=personalizedSearch&luceneResultSize=25&postWeek=60&txtKeywords=python&pDate=I&sequence=2&startPage=1
+
+shift+alt
